@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusdmb&label=Profile%20views&color=0e75b6&style=flat" alt="agusdmb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agusdmb" alt="agusdmb" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/agusdmb" target="blank"><img src="https://img.shields.io/twitter/follow/agusdmb?logo=twitter&style=for-the-badge" alt="agusdmb" /></a> </p>
 
 - 🔭 I’m currently working on [Boostup AI](boostup.ai)
