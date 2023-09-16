@@ -7,13 +7,11 @@ I currently live in Italy 🇮🇹
 
 <p align="left"> <a href="https://twitter.com/agusdmb" target="blank"><img src="https://img.shields.io/twitter/follow/agusdmb?logo=twitter&style=for-the-badge" alt="agusdmb" /></a> </p>
 
-- 🔭 I’m currently working at [Nebuly](https://www.nebuly.com/)
+- 🤓 Python Expert here
 
-- 🌱 I’m currently learning **Golang**
+- 🔭 Currently working at [Nebuly](https://www.nebuly.com/)
 
-- 👨‍💻 All of my projects are available at [github.com/agusdmb](github.com/agusdmb)
-
-- 💬 Ask me about **Python**
+- 🌱 Learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
