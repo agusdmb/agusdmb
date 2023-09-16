@@ -7,7 +7,7 @@ I currently live in Italy 🇮🇹
 
 <p align="left"> <a href="https://twitter.com/agusdmb" target="blank"><img src="https://img.shields.io/twitter/follow/agusdmb?logo=twitter&style=for-the-badge" alt="agusdmb" /></a> </p>
 
-- 🔭 I’m currently working on [Boostup AI](boostup.ai)
+- 🔭 I’m currently working at [Nebuly](nebuly.ai)
 
 - 🌱 I’m currently learning **Golang**
 
