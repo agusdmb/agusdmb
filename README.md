@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Marquez</h1>
 <h3 align="center">A passionate Computer Scientist from Argentina 🇦🇷</h3>
 
-I currently live in Italy 🇮🇹
+I'm currently living in Italy 🇮🇹
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusdmb&label=Profile%20views&color=0e75b6&style=flat" alt="agusdmb" /> </p>
 
