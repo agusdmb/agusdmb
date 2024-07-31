@@ -9,8 +9,6 @@ I'm currently living in Italy 🇮🇹
 
 - 🤓 Python Expert here
 
-- 🔭 Currently working at [Nebuly](https://www.nebuly.com/)
-
 - 🌱 Learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
